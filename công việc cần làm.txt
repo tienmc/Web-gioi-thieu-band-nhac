@@ -1,0 +1,14 @@
+1.  Phân tích
+    1.  header
+    2.  slider
+    3.  content
+        1.about
+        2.tour 
+        3.contact
+    4.  banner
+    5.  footer
+2.  Dựng base 
+3.  Xây dựng tưng phần theo phân tích
+4.  Hoàn thiện
+
+
